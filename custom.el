@@ -2,7 +2,6 @@
 ;;; loaded at the end of init.el
 
 ;; general
-(setq make-backup-files nil)
 (setq visible-bell nil)
 
 ;; ruby
