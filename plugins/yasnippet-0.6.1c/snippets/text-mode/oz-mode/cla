@@ -1,0 +1,7 @@
+#name : cla - class
+# --
+class ${1:Class}
+	meth init($2)
+		$3
+	end
+end

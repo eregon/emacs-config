@@ -1,0 +1,6 @@
+#name : case
+# --
+case ${1:L}
+of nil then $2
+[] H|T then $3
+end

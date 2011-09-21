@@ -1,0 +1,5 @@
+#name : fun
+# --
+fun {${1:Name} ${2:Args}}
+	$0
+end

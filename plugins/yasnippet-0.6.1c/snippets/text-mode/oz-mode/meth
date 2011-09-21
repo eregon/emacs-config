@@ -1,0 +1,5 @@
+#name : meth
+# --
+meth ${1:name}(${2:\$})
+	$3
+end

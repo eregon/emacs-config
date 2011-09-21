@@ -1,0 +1,7 @@
+#name : in - local ... in ... end
+# --
+local
+	$1
+in
+	$2
+end
