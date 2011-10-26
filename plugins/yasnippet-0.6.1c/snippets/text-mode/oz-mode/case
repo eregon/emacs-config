@@ -1,6 +1,6 @@
 #name : case
 # --
-case ${1:L}
+case ${1:Xs}
 of nil then $2
-[] H|T then $3
+[] X|Xr then $3
 end
